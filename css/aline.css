@@ -438,3 +438,16 @@
     .gallery-wide { grid-column: 1; }
   }
   
+  .app-footer {
+    background: #f0ebe0;
+    border-top: 1px solid rgba(0,0,0,.06);
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-muted);
+    letter-spacing: 0.04em;
+  }
