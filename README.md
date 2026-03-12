@@ -15,6 +15,13 @@ Como página temos uma página principal inspirada na tela de perfis da Netflix,
 ## 🔍 Como o Code Review foi feito
 Dividimos cada um para preparar a sua própria seção e logo depois fazer a pull request. Quando terminamos tudo mergeamos e então tivemos o resultado final.
 
+## Como ter acesso ao projeto?
+1. Clonar o repositório
+```
+git clone https://github.com/alineteodoro/BackardigansCodeReview.git   
+```
+2. Iniciar o index.html
+
 ## 👩🏻‍💻 Desenvolvedores
 - Aline Teodoro (alineteodoro)
 - Ana Blefari (anablefari)
